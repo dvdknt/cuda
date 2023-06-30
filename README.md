@@ -5,10 +5,5 @@ For practicing Cuda
 
 First project:
 
-
-Look at genetic programming folder and see what parallelism it admits
-
-To parallelise:
-
-fitness function evaluation
-genotypes
+Look at aesthetic fitness functions and rewrite in cuda
+First project: painting the bell curve
